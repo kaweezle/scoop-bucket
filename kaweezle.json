@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "description": "WSL 2 Kubernetes distribution (Alpine based)",
+  "homepage": "https://github.com/antoinemartin/kaweezle",
+  "license": "Apache-2.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/antoinemartin/kaweezle/releases/download/v0.2.0/kaweezle_Windows_amd64.zip",
+      "bin": ["kaweezle.exe"],
+      "hash": "978316bff2daf8f95b87ce292d2e3d3ccfdc3e3107d168538dd63b9bc7a74ca3"
+    }
+  }
+}
