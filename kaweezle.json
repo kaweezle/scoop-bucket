@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/antoinemartin/kaweezle/releases/download/v0.2.1/kaweezle_Windows_amd64.zip",
+            "url": "https://github.com/antoinemartin/kaweezle/releases/download/v0.2.2/kaweezle_Windows_amd64.zip",
             "bin": [
                 "kaweezle.exe"
             ],
-            "hash": "cfd2ff858d7495b046b7df69f3ff9f1fc60c02270be338453cd7e8f20fcaf089"
+            "hash": "e97704664da92ff1ee1e586480ad293ba908ba4b7cf70251bfe53b87e806d192"
         }
     },
     "homepage": "https://github.com/antoinemartin/kaweezle",
