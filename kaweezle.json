@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kaweezle/kaweezle/releases/download/v0.3.1/kaweezle_Windows_amd64.zip",
+            "url": "https://github.com/kaweezle/kaweezle/releases/download/v0.3.2/kaweezle_Windows_amd64.zip",
             "bin": [
                 "kaweezle.exe"
             ],
-            "hash": "6b183df6d452778b1ea18b8020d4ca6eb35b6aa6ceced2516d88facbb96e081c"
+            "hash": "f638a42dfd758e9e823967c5284985224e8892b134741fb595053194bf3f49e2"
         }
     },
     "homepage": "https://github.com/kaweezle/kaweezle",
