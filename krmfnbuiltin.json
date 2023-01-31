@@ -1,0 +1,22 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kaweezle/krmfnbuiltin/releases/download/v0.3.1/krmfnbuiltin_v0.3.1_windows_386.zip",
+            "bin": [
+                "krmfnbuiltin.exe"
+            ],
+            "hash": "a04b7030d23932491b3047f8c5b2f891252bd20b636659a7ab75613c8cfe6a31"
+        },
+        "64bit": {
+            "url": "https://github.com/kaweezle/krmfnbuiltin/releases/download/v0.3.1/krmfnbuiltin_v0.3.1_windows_amd64.zip",
+            "bin": [
+                "krmfnbuiltin.exe"
+            ],
+            "hash": "3c0bc08af0beca38074dec7ed814d9a7c0d219494bd8cde4a044e521db83c8ba"
+        }
+    },
+    "homepage": "https://github.com/kaweezle/krmfnbuiltin",
+    "license": "Apache-2.0",
+    "description": "Kustomize SOPS KRM function"
+}
